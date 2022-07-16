@@ -1,0 +1,14 @@
+import React from "react";
+
+function Notes() {
+  return (
+    <div className="note">
+      <h1>Add notes title here.</h1>
+      <p>
+        This is a Note Taking App. You can write your notes here.
+      </p>
+    </div>
+  );
+}
+
+export default Notes;
